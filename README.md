@@ -47,6 +47,7 @@
 
   <h2><span class="section-icon"></span>Data Modeling (Star Schema)</h2>
     <p>The Gold Layer is designed specifically for analytical efficiency and ease of use in BI tools and ML pipelines.</p>
+<img src="https://lh3.googleusercontent.com/u/0/d/1cSUbYNYXkk7IorSlenru40SOABL83KuE" alt="Data Mart Star Schema Diagram" width="600">
 
   <h3>Fact Table</h3>
     <ul>
