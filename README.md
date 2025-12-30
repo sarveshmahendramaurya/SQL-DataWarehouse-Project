@@ -14,6 +14,8 @@
    <h2><span class="section-icon"></span>Architecture & Data Flow</h2>
     <p>The warehouse is divided into three logical layers to ensure data quality, lineage, and scalability.</p>
 
+<img src="https://lh3.googleusercontent.com/u/0/d/1Pe-S52t1EPaFxzgmFgrmMIe6654HlHgz" alt="Data Warehouse Architecture Diagram" width="500">
+
   <div class="layer-box bronze">
         <h3>1. Bronze Layer (Raw Data)</h3>
         <ul>
