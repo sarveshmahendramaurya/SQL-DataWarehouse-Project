@@ -1,5 +1,4 @@
 <h1>SQL Data Ware-house Project</h1>
-<br>
 <p> </p>
 <br>
 
@@ -73,6 +72,5 @@
         <li><strong>BI Reporting:</strong> Power BI / Tableau dashboards for executive decision-making.</li>
         <li><strong>Machine Learning:</strong> Prepared "Flat Tables" and feature sets ready for model training in Python or R.</li>
     </ul>
-<h1>my linkdin profile</h1>
-<br>
+<h2>my linkdin profile</h2>
 <a href=https://www.linkedin.com/in/sarvesh-maurya-20b822391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app target="_blank" rel="noopener noreferrer">visit my linkdin</a>
